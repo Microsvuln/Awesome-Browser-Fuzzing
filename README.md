@@ -7,7 +7,7 @@ A DOM Fuzzer by Ivan Fratric from Google project zero
 
 ## [FREEDOM](https://github.com/sslab-gatech/freedom)
 
-[FreeDom: Engineering a State-of-the-Art DOM Fuzzer](https://gts3.org/assets/papers/2020/xu:freedom.pdf)] (Georgia Institute of Technology)
+[FreeDom: Engineering a State-of-the-Art DOM Fuzzer](https://gts3.org/assets/papers/2020/xu:freedom.pdf)] (Georgia Institute of Technology) [code](https://github.com/sslab-gatech/freedom)
 
 FreeDom, a full-fledged clusterfriendly DOM fuzzer that works with both generative and coverageguided modes. FreeDom relies on a context-aware intermediate
 representation to describe HTML documents with proper data dependencies. FreeDom also exhibits up to 3.74× higher throughput
